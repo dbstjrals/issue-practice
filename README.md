@@ -10,3 +10,6 @@
 | 정범환 | 윤석민 | 정서현 | 최우혁 |
 | ----- | ---- | ---- | ---- |
 |[@Bumang-Cyber](https://github.com/Bumang-Cyber)| [@dbstjrals](https://github.com/dbstjrals)|[@JSH99](https://github.com/JSH99)|[@TaePoong719](https://github.com/TaePoong719)|
+
+### 3. 프로젝트 설명
+팀원들과 더 원활하게 소통하기 위해 개발한 나만의 SNS 서비스입니다. 이하 상세 설명 *to be continued・・・*  
