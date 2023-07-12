@@ -1,4 +1,4 @@
-1. 프로젝트 개요
+## 프로젝트 개요
    서비스의 이름은 트윗쓰레드.
    트위터와 쓰레드를 이어 삼강구도를 이룩할 새로운 텍스트 SNS를 만든다.
    
@@ -11,7 +11,7 @@
 | ----- | ---- | ---- | ---- |
 |[@Bumang-Cyber](https://github.com/Bumang-Cyber)| [@dbstjrals](https://github.com/dbstjrals)|[@JSH99](https://github.com/JSH99)|[@TaePoong719](https://github.com/TaePoong719)|
 
-### 3. 프로젝트 설명
+## 프로젝트 설명
 팀원들과 더 원활하게 소통하기 위해 개발한 나만의 SNS 서비스입니다. 이하 상세 설명 *to be continued・・・*  
 
 ## 4. 사용한 기술스택
