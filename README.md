@@ -13,3 +13,21 @@
 
 ### 3. 프로젝트 설명
 팀원들과 더 원활하게 소통하기 위해 개발한 나만의 SNS 서비스입니다. 이하 상세 설명 *to be continued・・・*  
+
+## 4. 사용한 기술스택
+
+Markdown
+- HTML
+- CSS
+
+Language
+- Javascript
+- Java
+
+Framework
+- React
+
+Tool
+- Slack
+- Github
+- Zoom
